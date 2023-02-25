@@ -1,4 +1,5 @@
 # Micron NUS-ISE Business Analytics Case Challenge 2023
+Our team placed within the Top 5 Finalists among hundreds of submissions.
 
 ## Background
 From 5G smartphones to the AI-enabled cloud, memory fuels everything that computes and is essential to growing the data economy. To address 2030-era demand for memory, Micron plans to invest more than $150 billion globally in manufacturing and R&D over the next decade.
