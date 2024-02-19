@@ -8,5 +8,9 @@ Micron Semiconductor, as one of major suppliers of DRAM and NAND memory chips, h
   
 In this Business Analytics Case Competition, we will take a deeper dive into the location planning to strategically increase our production capabilities. 
 
+## Dashboard
+![image](https://github.com/trwstin/BACC2023/assets/68576751/206972e1-d48a-4ffd-9711-d67be66cde2c)
+
+
 ## Disclosure 
 In this challenge, all figures and numbers used are strictly arbitrary and have no reference to Micron Technology, Inc.
